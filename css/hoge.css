@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+header{
+    background-color: bisque;
+    background-size: cover;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+input{
+    margin: 10px;
+}
